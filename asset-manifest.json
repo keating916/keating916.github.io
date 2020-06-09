@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b114cbe.chunk.css",
+    "main.js": "/static/js/main.7bb92777.chunk.js",
+    "main.js.map": "/static/js/main.7bb92777.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2b20a0b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2b20a0b.js.map",
+    "static/js/2.1ffa662d.chunk.js": "/static/js/2.1ffa662d.chunk.js",
+    "static/js/2.1ffa662d.chunk.js.map": "/static/js/2.1ffa662d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.46d75f4ea2856e7087b7adfdbe2b9328.js": "/precache-manifest.46d75f4ea2856e7087b7adfdbe2b9328.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2b114cbe.chunk.css.map": "/static/css/main.2b114cbe.chunk.css.map",
+    "static/js/2.1ffa662d.chunk.js.LICENSE": "/static/js/2.1ffa662d.chunk.js.LICENSE",
+    "static/media/Patrick-KeatingIndeed.pdf": "/static/media/Patrick-KeatingIndeed.3be7437a.pdf",
+    "static/media/etch.jpg": "/static/media/etch.fa422068.jpg",
+    "static/media/rps.png": "/static/media/rps.6ace7349.png",
+    "static/media/simpsons.png": "/static/media/simpsons.7522b297.png",
+    "static/media/snip.png": "/static/media/snip.e38f0157.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2b20a0b.js",
+    "static/js/2.1ffa662d.chunk.js",
+    "static/css/main.2b114cbe.chunk.css",
+    "static/js/main.7bb92777.chunk.js"
+  ]
+}
